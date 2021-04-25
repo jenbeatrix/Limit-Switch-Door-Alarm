@@ -11,5 +11,6 @@ Materials:
 7. Normally Closed Switch
 
 Schematic:
+
 ![image](https://user-images.githubusercontent.com/82814920/115991718-59b04d00-a5fc-11eb-9090-aacd152802bc.png)
 
