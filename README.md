@@ -14,3 +14,5 @@ Schematic:
 
 ![image](https://user-images.githubusercontent.com/82814920/115991718-59b04d00-a5fc-11eb-9090-aacd152802bc.png)
 
+
+© 2017, Jen Beatrix Maristela (aka jenbeatrix), All rights reserved.
