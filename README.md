@@ -1,4 +1,4 @@
-# Limit_Switch_Door_Alarm
+# Door Alam using Limit Switch as Trigger
 This is a device that I have made when I was a 3rd Year Electronics Engineering Student. Limit switch door alarm is a device that will inform the user if there is someone who trespasses inside your home. This alarm has a loud buzzer that will alert the owner or someone residing the property. 
 
 Materials:
