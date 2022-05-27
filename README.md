@@ -14,10 +14,11 @@ Schematic:
 
 ![image](https://user-images.githubusercontent.com/82814920/115991718-59b04d00-a5fc-11eb-9090-aacd152802bc.png)
 
-Finished Product:
+Finished Product (This photo was taken recently which is why it looks dirty and dusty):
 
-![image](https://user-images.githubusercontent.com/82814920/170748512-dd2a1159-a9ea-45da-be10-892f3fbc94b4.png) ![image](https://user-images.githubusercontent.com/82814920/170748664-0f8c4572-e3c6-4250-8dde-f9bbfcf564b5.png)
+![image](https://user-images.githubusercontent.com/82814920/170749427-79ca0de9-d647-4b6c-b4a8-98f9d6f87254.png)
 
+![image](https://user-images.githubusercontent.com/82814920/170749618-5a312eb6-fd25-431d-a973-8f4e9a928f6d.png)
 
 
 © 2017, Jen Beatrix Maristela (aka jenbeatrix), All rights reserved.
