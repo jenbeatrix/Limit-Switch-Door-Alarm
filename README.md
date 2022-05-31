@@ -24,6 +24,8 @@ Fig. 3 & 4: Testing Stage
 
 Fig. 5: Circuit Components Inside the Enclosure
 
+![20190321_225605](https://user-images.githubusercontent.com/82814920/171137541-21a37553-8327-4f4c-aee8-ab400d00a867.jpg)
+
 Fig. 6 & 7: Finished Product (This photo was taken recently which is why it looks dirty and dusty)
 
 ![image](https://user-images.githubusercontent.com/82814920/170749427-79ca0de9-d647-4b6c-b4a8-98f9d6f87254.png)
