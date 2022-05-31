@@ -22,7 +22,9 @@ Fig. 3 & 4: Testing Stage
 
 ![20190222_182211](https://user-images.githubusercontent.com/82814920/171136162-28f0f6b9-087c-4a9a-a8c3-1eed5b737e7f.jpg)
 
-Fig. 5: Finished Product (This photo was taken recently which is why it looks dirty and dusty)
+Fig. 5: Circuit Components Inside the Enclosure
+
+Fig. 6 & 7: Finished Product (This photo was taken recently which is why it looks dirty and dusty)
 
 ![image](https://user-images.githubusercontent.com/82814920/170749427-79ca0de9-d647-4b6c-b4a8-98f9d6f87254.png)
 
