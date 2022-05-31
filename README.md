@@ -28,6 +28,8 @@ Fig. 5: Circuit Components Inside the Enclosure
 
 Fig. 6 & 7: Finished Product (This photo was taken recently which is why it looks dirty and dusty)
 
+It was put in a mini door since the entire device must be mounted.
+
 ![image](https://user-images.githubusercontent.com/82814920/170749427-79ca0de9-d647-4b6c-b4a8-98f9d6f87254.png)
 
 ![image](https://user-images.githubusercontent.com/82814920/170749618-5a312eb6-fd25-431d-a973-8f4e9a928f6d.png)
